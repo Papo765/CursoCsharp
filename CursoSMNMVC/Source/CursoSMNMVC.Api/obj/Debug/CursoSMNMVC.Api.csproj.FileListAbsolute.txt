@@ -1,0 +1,2 @@
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Api\obj\Debug\CursoSMNMVC.Api.csprojResolveAssemblyReference.cache
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Api\obj\Debug\CursoSMNMVC.Api.csproj.CoreCompileInputs.cache

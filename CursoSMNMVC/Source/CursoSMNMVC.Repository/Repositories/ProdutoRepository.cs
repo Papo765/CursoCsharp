@@ -10,6 +10,10 @@ namespace CursoSMNMVC.Repository.Repositories
     {
         private static readonly Conexao conexao = new Conexao();
 
+        public ProdutoRepository() 
+        {
+        }
+
         public ProdutoRepository(Conexao conexao) : base(conexao)
         {
         }
@@ -24,7 +28,10 @@ namespace CursoSMNMVC.Repository.Repositories
                 while (reader.Read())
                     produtos.Add(new Produto
                     {
-                        Nome = reader.ReadAsString("Nome")
+                        CodigoProduto = reader.ReadAsInt("CodigoProduto"),
+                        Nome = reader.ReadAsString("Nome"),
+                        Preco = reader.ReadAsDecimal("Preco"),
+                        Estoque = reader.ReadAsInt("Estoque")
                     });
             }
             return produtos;

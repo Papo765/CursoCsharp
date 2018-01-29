@@ -1,0 +1,6 @@
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Domain\CursoSMNMVC.Domain\bin\Debug\CursoSMNMVC.Domain.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Domain\CursoSMNMVC.Domain\bin\Debug\CursoSMNMVC.Domain.pdb
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Domain\CursoSMNMVC.Domain\obj\Debug\CursoSMNMVC.Domain.csprojResolveAssemblyReference.cache
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Domain\CursoSMNMVC.Domain\obj\Debug\CursoSMNMVC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Domain\CursoSMNMVC.Domain\obj\Debug\CursoSMNMVC.Domain.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Domain\CursoSMNMVC.Domain\obj\Debug\CursoSMNMVC.Domain.pdb

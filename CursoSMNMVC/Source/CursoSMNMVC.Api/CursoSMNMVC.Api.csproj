@@ -86,6 +86,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\ProdutorController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -102,7 +103,16 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CursoSMNMVC.Domain\CursoSMNMVC.Domain\CursoSMNMVC.Domain.csproj">
+      <Project>{B0645167-A863-45C4-AFAE-BAC1F4D94F32}</Project>
+      <Name>CursoSMNMVC.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CursoSMNMVC.Repository\CursoSMNMVC.Repository.csproj">
+      <Project>{84E832AF-8627-4874-86B5-93BEDC1F0BF1}</Project>
+      <Name>CursoSMNMVC.Repository</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
