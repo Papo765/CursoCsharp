@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoSMNMVC.Repository", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoSMNMVC.Domain", "CursoSMNMVC.Domain\CursoSMNMVC.Domain\CursoSMNMVC.Domain.csproj", "{B0645167-A863-45C4-AFAE-BAC1F4D94F32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoSMNMVC.Application", "CursoSMNMVC.Application\CursoSMNMVC.Application.csproj", "{3CD2974C-8768-4FA7-8F1C-DE51D515E168}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{B0645167-A863-45C4-AFAE-BAC1F4D94F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0645167-A863-45C4-AFAE-BAC1F4D94F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0645167-A863-45C4-AFAE-BAC1F4D94F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CD2974C-8768-4FA7-8F1C-DE51D515E168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD2974C-8768-4FA7-8F1C-DE51D515E168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD2974C-8768-4FA7-8F1C-DE51D515E168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD2974C-8768-4FA7-8F1C-DE51D515E168}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +58,7 @@ Global
 		{F88ACEEF-CB8B-499E-9053-34D096FD5A99} = {7BDF67D9-D046-4A37-9A18-F7A8FB161FEC}
 		{84E832AF-8627-4874-86B5-93BEDC1F0BF1} = {F7C93994-9686-4DAC-B0F4-D6B5D61EEA47}
 		{B0645167-A863-45C4-AFAE-BAC1F4D94F32} = {2170C6C3-F3E1-4131-9479-8B024A6333FA}
+		{3CD2974C-8768-4FA7-8F1C-DE51D515E168} = {447499C2-F79E-4529-9070-5AC65B703C37}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {618CE689-B309-4E39-B92B-C5015365C926}

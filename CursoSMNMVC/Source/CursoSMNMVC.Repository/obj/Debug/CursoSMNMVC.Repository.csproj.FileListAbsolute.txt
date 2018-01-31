@@ -1,2 +1,10 @@
 C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Repository\obj\Debug\CursoSMNMVC.Repository.csprojResolveAssemblyReference.cache
 C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Repository\obj\Debug\CursoSMNMVC.Repository.csproj.CoreCompileInputs.cache
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Repository\bin\Debug\CursoSMNMVC.Repository.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Repository\bin\Debug\CursoSMNMVC.Repository.pdb
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Repository\bin\Debug\CursoSMNMVC.Domain.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Repository\bin\Debug\CursoSMNMVC.Domain.pdb
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Repository\obj\Debug\CursoSMNMVC.Repository.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Repository\obj\Debug\CursoSMNMVC.Repository.pdb
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Repository\bin\Debug\Newtonsoft.Json.xml

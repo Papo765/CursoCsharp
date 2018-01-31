@@ -4,3 +4,5 @@ C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Domain\C
 C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Domain\CursoSMNMVC.Domain\obj\Debug\CursoSMNMVC.Domain.csproj.CoreCompileInputs.cache
 C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Domain\CursoSMNMVC.Domain\obj\Debug\CursoSMNMVC.Domain.dll
 C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Domain\CursoSMNMVC.Domain\obj\Debug\CursoSMNMVC.Domain.pdb
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Domain\CursoSMNMVC.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Domain\CursoSMNMVC.Domain\bin\Debug\Newtonsoft.Json.xml
