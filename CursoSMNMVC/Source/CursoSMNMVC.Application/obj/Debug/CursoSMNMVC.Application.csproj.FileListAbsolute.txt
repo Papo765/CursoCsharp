@@ -1,0 +1,10 @@
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\CursoSMNMVC.Application.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\CursoSMNMVC.Application.pdb
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\CursoSMNMVC.Domain.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\CursoSMNMVC.Domain.pdb
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\obj\Debug\CursoSMNMVC.Application.csprojResolveAssemblyReference.cache
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\obj\Debug\CursoSMNMVC.Application.csproj.CoreCompileInputs.cache
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\obj\Debug\CursoSMNMVC.Application.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\obj\Debug\CursoSMNMVC.Application.pdb

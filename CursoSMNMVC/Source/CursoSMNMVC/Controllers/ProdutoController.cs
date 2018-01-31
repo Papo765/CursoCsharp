@@ -12,14 +12,13 @@ namespace CursoSMNMVC.Controllers
         {
             var response = _produtoApplication.GetProdutos();
 
-            if(response.Status != HttpStatusCode.OK)
+            if (response.Status != HttpStatusCode.OK)
             {
                 Response.StatusCode = (int)HttpStatusCode.BadRequest;
                 Response.TrySkipIisCustomErrors = true;
                 return Content(response.ContentAsString);
             }
-
-            return View("", response.Content); 
-        }      
+            return View("GridProdutos", response.Content);
+        }
     }
 }

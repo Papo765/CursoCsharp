@@ -96,3 +96,5 @@ C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC\obj\Debu
 C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC\obj\Debug\CursoSMNMVC.csproj.CoreCompileInputs.cache
 C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC\obj\Debug\CursoSMNMVC.dll
 C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC\obj\Debug\CursoSMNMVC.pdb
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC\bin\CursoSMNMVC.Application.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC\bin\CursoSMNMVC.Application.pdb

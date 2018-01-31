@@ -20,7 +20,7 @@ namespace CursoSMNMVC.Repository.Repositories
 
         public IEnumerable<Produto> GetProdutos()
         {
-            ExecuteProcedure("[dbo].SelProdutos]");
+            ExecuteProcedure("[dbo].[SP_SelProdutos]");
 
             var produtos = new List<Produto>();
             using ( var reader = ExecuteReader())
