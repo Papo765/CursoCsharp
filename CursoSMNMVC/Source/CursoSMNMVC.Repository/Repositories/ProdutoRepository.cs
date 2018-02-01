@@ -36,5 +36,20 @@ namespace CursoSMNMVC.Repository.Repositories
             }
             return produtos;
         }
+
+        public string CadastraProduto(Produto produto)
+        {
+            ExecuteProcedure("SP_InsProduto");
+            AddParameter("@Nome", produto.Nome);
+            AddParameter("@Preo",produto.Preco);
+            AddParameter("@Estoque",produto.Estoque);
+
+            var retorno = ExecuteNonQueryWithReturn();
+
+            if (retorno == 1)
+                return "Erro ao inserir produto";
+
+            return null;
+        }
     }
 }

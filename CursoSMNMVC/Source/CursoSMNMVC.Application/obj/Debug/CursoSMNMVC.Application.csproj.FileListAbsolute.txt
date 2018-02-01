@@ -8,3 +8,15 @@ C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Applicat
 C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\obj\Debug\CursoSMNMVC.Application.csproj.CoreCompileInputs.cache
 C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\obj\Debug\CursoSMNMVC.Application.dll
 C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\obj\Debug\CursoSMNMVC.Application.pdb
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\CursoSMNMVC.Application.dll.config
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\System.Net.Http.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\João Paulo\Desktop\CursoSMNMVC\CursoSMNMVC\Source\CursoSMNMVC.Application\bin\Debug\System.Diagnostics.DiagnosticSource.xml

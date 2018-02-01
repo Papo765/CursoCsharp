@@ -11,7 +11,7 @@ namespace CursoSMNMVC.Application
             Status = statusCode;
         }
 
-        public Response(HttpStatusCode statusCode)
+        public Response(System.IO.Stream result, HttpStatusCode statusCode)
         {
             Status = statusCode;
         }
